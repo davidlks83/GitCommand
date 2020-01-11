@@ -1,0 +1,10 @@
+C:\Users\kaiselim\Source\Repos\GitCommandSandBox\GitCommandSandBox\bin\Debug\netcoreapp2.1\GitCommandSandBox.deps.json
+C:\Users\kaiselim\Source\Repos\GitCommandSandBox\GitCommandSandBox\bin\Debug\netcoreapp2.1\GitCommandSandBox.runtimeconfig.json
+C:\Users\kaiselim\Source\Repos\GitCommandSandBox\GitCommandSandBox\bin\Debug\netcoreapp2.1\GitCommandSandBox.runtimeconfig.dev.json
+C:\Users\kaiselim\Source\Repos\GitCommandSandBox\GitCommandSandBox\bin\Debug\netcoreapp2.1\GitCommandSandBox.dll
+C:\Users\kaiselim\Source\Repos\GitCommandSandBox\GitCommandSandBox\bin\Debug\netcoreapp2.1\GitCommandSandBox.pdb
+C:\Users\kaiselim\Source\Repos\GitCommandSandBox\GitCommandSandBox\obj\Debug\netcoreapp2.1\GitCommandSandBox.csproj.CoreCompileInputs.cache
+C:\Users\kaiselim\Source\Repos\GitCommandSandBox\GitCommandSandBox\obj\Debug\netcoreapp2.1\GitCommandSandBox.AssemblyInfoInputs.cache
+C:\Users\kaiselim\Source\Repos\GitCommandSandBox\GitCommandSandBox\obj\Debug\netcoreapp2.1\GitCommandSandBox.AssemblyInfo.cs
+C:\Users\kaiselim\Source\Repos\GitCommandSandBox\GitCommandSandBox\obj\Debug\netcoreapp2.1\GitCommandSandBox.dll
+C:\Users\kaiselim\Source\Repos\GitCommandSandBox\GitCommandSandBox\obj\Debug\netcoreapp2.1\GitCommandSandBox.pdb

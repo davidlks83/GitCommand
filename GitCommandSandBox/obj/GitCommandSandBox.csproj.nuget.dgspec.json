@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kaiselim\\Source\\Repos\\GitCommandSandBox\\GitCommandSandBox\\GitCommandSandBox.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kaiselim\\Source\\Repos\\GitCommandSandBox\\GitCommandSandBox\\GitCommandSandBox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kaiselim\\Source\\Repos\\GitCommandSandBox\\GitCommandSandBox\\GitCommandSandBox.csproj",
+        "projectName": "GitCommandSandBox",
+        "projectPath": "C:\\Users\\kaiselim\\Source\\Repos\\GitCommandSandBox\\GitCommandSandBox\\GitCommandSandBox.csproj",
+        "packagesPath": "C:\\Users\\kaiselim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kaiselim\\Source\\Repos\\GitCommandSandBox\\GitCommandSandBox\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kaiselim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://hpsdownloads.lov.is.keysight.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.it.keysight.com/artifactory/api/nuget/nuget-keysight": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

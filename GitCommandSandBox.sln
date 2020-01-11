@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitCommandSandBox", "GitCommandSandBox\GitCommandSandBox.csproj", "{95CEA91E-D636-48C7-9BDC-549BA63DAEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CEA91E-D636-48C7-9BDC-549BA63DAEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CEA91E-D636-48C7-9BDC-549BA63DAEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CEA91E-D636-48C7-9BDC-549BA63DAEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CEA91E-D636-48C7-9BDC-549BA63DAEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20431C9A-DEBC-4C21-A148-0AD5CCD3BFC4}
+	EndGlobalSection
+EndGlobal
